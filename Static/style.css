@@ -1,0 +1,33 @@
+ /* Navigation Bar */
+ .navbar {
+    padding: 5px 10px 1px 0px;
+    background-color: #28a7e9;
+    transition: all ease 0.4s;
+  }
+
+  .navbar-brand {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black !important;
+  }
+
+  .navbar .navbar-nav li a {
+    font-size: 16px;
+    color: white;
+  }
+
+  /* Animation */
+  .animate {
+    padding: 0px 10px 0px 0px;
+    transition: all ease 0.4s;
+  }
+
+  /* Jumbotron */
+  .jumbotron {
+    margin-top: 110px;
+  }
+
+  input {
+    margin: 0px 15px 0px 0px;
+  }
